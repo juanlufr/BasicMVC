@@ -8,7 +8,7 @@ Building a basic MVC app with Visual Studio Express 2013 for Web
 
 ## Built With 🛠️
 
-This code is written in C# with Visual Studio Express 2013 for Web.
+This code is written in C#, HTML and ASP.NET with Visual Studio Express 2013 for Web.
 Of course you can use your prefer framework or IDE.
 
 
@@ -20,15 +20,15 @@ This project contains three main folders:
 
 1. **Model** - Model folder
 
-   - I've defined the Car class, file coche.cs into Models folder
+   - I've defined the Car class, file [coche.cs] into Models folder
 
 2. **View** - View folder
 
-   - In the Index.cshtml file I'm using Razor to render the data in html
+   - In the [Index.cshtml] file I'm using Razor to render the data in html
 
 3. **Controller** - Controller folder
 
-   - In the file HomeController.cs I've defined a Car List with 4 instances of cars
+   - In the file [HomeController.cs] I've defined a Car List with 4 instances of cars
 
 4. **.gitignore** – git ignore files
 
@@ -40,7 +40,7 @@ This project contains three main folders:
 
 ### Installation 🔧
 
-- Follow instructions in my spanish blog (https://juanlucodingbinding.wordpress.com/2014/03/06/modelo-mvc-ejemplo-basico-de-mvc-en-asp-net-mvc-4/).
+- You don't need to install anything because this is a simple MVC example. You can see a detailed description on my spanish blog https://juanlucodingbinding.wordpress.com/2014/03/06/modelo-mvc-ejemplo-basico-de-mvc-en-asp-net-mvc-4/
 
 <!-- CONTRIBUTING -->
 
