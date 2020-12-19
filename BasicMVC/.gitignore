@@ -361,4 +361,9 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-BasicMVC/App_Start/
+BasicMVC/App_Start/*
+BasicMVC/Content/*
+BasicMVC/Filters/*
+BasicMVC/Images/*
+BasicMVC/Properties/*
+BasicMVC/Scripts/*
