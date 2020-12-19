@@ -361,6 +361,7 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
+# App automatic files - files created in automatic mode
 BasicMVC/App_Start/*
 BasicMVC/Content/*
 BasicMVC/Filters/*
