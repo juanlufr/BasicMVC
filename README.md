@@ -4,7 +4,7 @@
 
 Building a basic MVC app with Visual Studio Express 2013 for Web
 
-![Node](https://github.com/juanlufr/basicMVC/blob/master/node-js.png)
+![MVC](https://juanlucodingbinding.files.wordpress.com/2014/03/mvc.jpg)
 
 ## Built With 🛠️
 
