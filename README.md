@@ -28,7 +28,7 @@ This project contains three main folders:
 
 3. **Controller** - Controller folder
 
-   - In the file [HomeController.cs](https://github.com/juanlufr/BasicMVC/blob/master/BasicMVC/Controller/HomeController.cs) I've defined a Car List with 4 instances of cars
+   - In the file [HomeController.cs](https://github.com/juanlufr/BasicMVC/blob/master/BasicMVC/Controllers/HomeController.cs) I've defined a Car List with 4 instances of cars
 
 4. **.gitignore** – git ignore files
 
