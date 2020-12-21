@@ -20,15 +20,15 @@ This project contains three main folders:
 
 1. **Model** - Model folder
 
-   - I've defined the Car class, file [coche.cs] into Models folder
+   - I've defined the Car class, file [coche.cs](https://github.com/juanlufr/BasicMVC/blob/master/BasicMVC/Models/Coche.cs) into Models folder
 
 2. **View** - View folder
 
-   - In the [Index.cshtml] file I'm using Razor to render the data in html
+   - In the [Index.cshtml](https://github.com/juanlufr/BasicMVC/blob/master/BasicMVC/View/Index.cshtml) file I'm using Razor to render the data in html
 
 3. **Controller** - Controller folder
 
-   - In the file [HomeController.cs] I've defined a Car List with 4 instances of cars
+   - In the file [HomeController.cs](https://github.com/juanlufr/BasicMVC/blob/master/BasicMVC/Controller/HomeController.cs) I've defined a Car List with 4 instances of cars
 
 4. **.gitignore** – git ignore files
 
